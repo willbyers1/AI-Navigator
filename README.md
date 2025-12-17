@@ -12,9 +12,8 @@
 ---
 
 ## 📸 Project Preview
-<img width="1366" height="721" alt="image" src="https://github.com/user-attachments/assets/5b75a828-b31c-4444-9f89-e207bfccae27" />
-<img width="1366" height="718" alt="image" src="https://github.com/user-attachments/assets/1c88bd78-be2a-4c35-88d8-1c8981056dfd" />
-
+<img width="1360" height="718" alt="image" src="https://github.com/user-attachments/assets/922eae3c-4e1f-49dc-9b07-9e67b8a42747" />
+<img width="1366" height="715" alt="image" src="https://github.com/user-attachments/assets/921cf0a7-e354-48da-bb55-f6c666a4f3d7" />
 
 
 
